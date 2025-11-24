@@ -1,0 +1,10 @@
+langchain
+langchain-community
+chromadb
+sentence-transformers
+transformers
+huggingface-hub
+streamlit
+tiktoken
+pypdf
+chroma-migrate
